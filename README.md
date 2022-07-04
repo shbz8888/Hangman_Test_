@@ -1,10 +1,10 @@
 # Hangman_Test__
 A git error necessitated that the repo be remade
 
-Milestone 1
+Milestone 1:
 *in milestone 1 a simple function was created which asks the user for an input
 
-Milestone 2
+Milestone 2:
 *in milestone 2 object oriented programming (OOP) was used and the attributes were initialised, OOP was used due to the number of variables that will be repeatedly updated and used multiple times.
 ```python
    def __init__(self, word_list, num_lives=5):
