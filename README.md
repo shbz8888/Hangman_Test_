@@ -78,6 +78,7 @@ Milestone 3:
 note: the code for the hangman illustration is from the final milestone
 
 Milestone 4:
-
+*The logic of the game was programmed (please refer to the latter part of the code copied above), if the user entered a letter and it wasn't in the word a life was minued and the hangman diagram was cloder to being complete
+*If it was in the word it would appear in the blank spaces of the word
 
         
